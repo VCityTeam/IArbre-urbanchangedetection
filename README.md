@@ -1,4 +1,4 @@
-# IArbre-urbanchangedetection
+# IArbre-UrbanChangeDetection
 
 - [Readme source code](./code/README.md)
 - [Repport](Rapport.md)
